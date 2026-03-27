@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Animation Suite](https://img.shields.io/badge/_ACCESS_THE_ANIMATION_SUITE-TVPAINT_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/)
+[![Access the Animation Suite](https://img.shields.io/badge/_ACCESS_THE_ANIMATION_SUITE-TVPAINT_Ready-blue?style=for-the-badge)](https://caricoreil340.github.io/.github/tvp-software)
 </div>
 
 ## What is this TVPaint Animation Integration?
